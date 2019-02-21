@@ -2,4 +2,10 @@
     <string name="app_name">DK Player</string>
     <string name="no_media_found">No Media Found....</string>
     <string name="no_path_specified">No Path Specified</string>
+    <string name="start_pause">Start/Pause</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="file_name_prefix">recording</string>
+    <string name="output_format">.3gp</string>
+    <string name="output_path">/Music/recordings/</string>
 </resources>
